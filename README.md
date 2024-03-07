@@ -2,6 +2,8 @@
 
 ## Contents:
 
+PDF and .html versions of the assignment
+
 All coding scripts for the visualisations for the project.
 
 .csv files 
